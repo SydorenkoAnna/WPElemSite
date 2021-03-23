@@ -1,2 +1,2 @@
 # WPElemSite
-WorldPress + Elementor site
+WordPress + Elementor site
